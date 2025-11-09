@@ -6,3 +6,6 @@ __pycache__/
 # Operating System
 .DS_Store
 Thumbs.db
+
+# Project specific
+damlPr/temp/
